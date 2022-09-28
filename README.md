@@ -2,9 +2,8 @@
 Java 101 Dersinde hazırladığım Not Hesaplama Kodu
 
 
-'''
-{
-    public static void main(String[] args) {
+
+    {public static void main(String[] args) {
         //değişkenleri oluştur
         int mat,kimya,fizik,turkce,tarih,muzik;
 
@@ -41,4 +40,4 @@ Java 101 Dersinde hazırladığım Not Hesaplama Kodu
     }
 
 }
-'''
+
