@@ -2,7 +2,7 @@
 Java 101 Dersinde hazırladığım Not Hesaplama Kodu
 
 
-
+'''
 {
     public static void main(String[] args) {
         //değişkenleri oluştur
@@ -41,3 +41,4 @@ Java 101 Dersinde hazırladığım Not Hesaplama Kodu
     }
 
 }
+'''
