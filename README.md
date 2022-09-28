@@ -1,5 +1,6 @@
 # Not Hesaplama
 Java 101 Dersinde hazırladığım Not Hesaplama Kodu
+https://app.patika.dev/misu
 
 
 
